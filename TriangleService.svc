@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="TriangleWebService.TriangleService" CodeBehind="~/App_Code/TriangleService.cs" %>
