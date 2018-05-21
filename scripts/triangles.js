@@ -38,7 +38,7 @@ function getCoordinatesFromService(row, col) {
     dataObj["col"] = col;
     debugger;
     
-    var sURL = "http://localhost:51231/TriangleService.svc/GetCoordinates"
+    var sURL = "http://localhost/triangle/TriangleService.svc/GetCoordinates"
 
     $.ajax({
         async: false,
